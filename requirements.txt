@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+pandas
+scikit-learn
+streamlit
+accelerate>=0.26.0
+shap
+matplotlib
